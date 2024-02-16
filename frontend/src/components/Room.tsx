@@ -12,7 +12,7 @@ export const Room = () =>{
     
     
     return <div>
-            Room
+            Hi {name}
 
     </div>
 }
