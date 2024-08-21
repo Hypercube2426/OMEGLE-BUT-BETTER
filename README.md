@@ -1,2 +1,1 @@
-
-## omegle clone using web RTC(ptp)
+## Omegle clone using WebRTC (p2p)
